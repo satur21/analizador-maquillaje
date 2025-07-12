@@ -11,6 +11,7 @@ Original file is located at
 import streamlit as st
 import nltk
 import re
+import nltk
 
 st.set_page_config(page_title="Analizador de Clientes", layout="centered")
 
